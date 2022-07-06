@@ -13,4 +13,5 @@ ERROR INDICATION:
 ![active-states](https://user-images.githubusercontent.com/83665329/177439519-140f365f-f043-437b-a7ae-05a0969258d9.jpg)
 
 MOBILE DESIGN:
+
 ![mobile-design](https://user-images.githubusercontent.com/83665329/177439507-0f2fa546-d705-4a00-9242-397ca61e0724.jpg)
